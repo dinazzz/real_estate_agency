@@ -1,0 +1,6 @@
+Django==2.2.4
+python-dotenv==0.10.3
+dj-database-url==0.5.0
+phonenumbers==8.10.17
+django-phonenumber-field-==3.0.1
+
